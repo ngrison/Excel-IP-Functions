@@ -25,15 +25,38 @@ The two main restrictions:
 - They required Excel 365
 - They only support IPv4
 
+### Utilisation
+
+The functions are extremely easy to use. Just type "=ip." in a cell and all the available functions will be displayed. Most functions take input in the form of a dotted ip address (i.e. 192.168.0.1) or a dotted IP address and a prefix length (i.e. 192.168.0.1/24). There are functions to accept or return data from/to any other format (i.e. hostmask, netmask, binary,...).
+
+ip.network_address
+ip.broadcast_address
+ip.previous_subnet
+ip.next_subnet
+ip.first_host_address
+ip.previous_host_address
+ip.next_host_address
+ip.last_host_address
+ip.offset
+
+The module includes countless functions so I highly recommend using my instruction XLS file to view all the functions and understand how to use them:
+[Excel IP Functions User Guide.xls](Formula/Excel%20IP%20Functions%20User%20Guide.xls)
+
 ### Installation
 
 Easy Installation:
-Download the blank workbook [Excel IP Functions.cls](Formula/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and start using the functions.
+The easiest way to use those function is to simply download the blank workbook [Excel IP Functions.xls](Formula/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and start using the functions.
+
+If you need to add the functions to an existing workbook, the easiest way is to open the [Excel IP Functions.xls](Formula/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and copy the only blank sheet it contains to your existing workbook. That will also add the module to your workbook. The copied sheet can immediately be deleted.
 
 Manual Installation:
-You need to install [Microsoft Excel Labs]([VBA/Excel%20IP%20Functions.bas](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview)).
+* Install [Microsoft Excel Labs]([VBA/Excel%20IP%20Functions.bas](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview)).
+* create a new workbook and launch Excel Labs.
+* Enter the Advanced Formula environment and select "Module".
+* Click the import module icon and paste the following URL: https://gist.github.com/ngrison/54836a2e14f79da7612fe7b4ca5ee536
+* I strongly recommend to select "Add formulas to new module" and to name the new module "ip".
 
-
+The functions are now available to use in the 
 
 ## Classic VBA Based Functions
 
