@@ -25,6 +25,16 @@ The two main restrictions:
 - They required Excel 365
 - They only support IPv4
 
+### Installation
+
+Easy Installation:
+Download the blank workbook [Excel IP Functions.cls](Formula/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and start using the functions.
+
+Manual Installation:
+You need to install [Microsoft Excel Labs]([VBA/Excel%20IP%20Functions.bas](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview)).
+
+
+
 ## Classic VBA Based Functions
 
 If you do need to manipulate IPv6 addresses, or use an older version of Excel, my classic VBA based fucntions are still available.
@@ -62,5 +72,5 @@ Create a new macro-enabled workbook, open the VBA environment and import the .ba
 [Excel IP Functions.cls](VBA/Excel%20IP%20Functions.cls)
 
 Easy Installation:
-Download the blank workbook and start using the functions:
-[Excel IP Functions.cls](VBA/Excel%20IP%20Functions%20Blank%20Workbook.xlsm)
+Download the blank workbook [Excel IP Functions.cls](VBA/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and start using the functions.
+
