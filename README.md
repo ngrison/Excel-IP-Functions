@@ -33,11 +33,34 @@ They do support IPv4 and IPv6.
 
 ## Utilisation
 
+When installed and enabled in the workbook, all functions become available in formulas and begin with "ip". Just type"=ip" in a cell and you will see the list of functions.
+The functions have specific options to format the output.
 
+Some examples of available function:
+ipAddress: Get the ip address of a ip/prefix pair
+ipHostX: Get the Xth host address from the beginning of a subnet
+ipHostY: Get the Yth host address from the end of a subnet
+ipHostFirst: Get the first host address in a subnet
+ipHostPrev: Get the previous host address in a subnet
+ipHostNext: Get the next host address in a subnet
+ipHostLast: Get the last host address in a subnet
+ipHostCount: Get the number of host addresses in a subnet
+ipSubAddress: Get the network address
+ipSubMask: Get the subnet mask
+ipSubBroadcast: Get the Broadcast address
+ipSubPrev: get the previous subnet
+ipSubNext: Get the next subnet
+
+The modules include countless more functions and format options so I highly recommend using my instruction XLSM file to view all the functions and see how they work:
+[Excel IP Functions.xlsm](VBA/Excel%20IP%20Functions.xlsm)
 
 ## Installation
 
 Manual Installation:
 Create a new macro-enabled workbook, open the VBA environment and import the .bas and .cls files in the VBA folder.
-[a relative link](VBA/Excel%20IP%20Functions%204.00b5.bas)
-[a relative link](VBA/Excel%20IP%20Functions%204.00b5.cls)
+[Excel IP Functions.bas](VBA/Excel%20IP%20Functions.bas)
+[Excel IP Functions.cls](VBA/Excel%20IP%20Functions.cls)
+
+Easy Installation:
+Download the blank workbook and start using the functions:
+[Excel IP Functions.cls](VBA/Excel%20IP%20Functions%20Blank%20Workbook.xlsm)
