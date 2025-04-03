@@ -1,4 +1,6 @@
-# A Suite of Excel Tools to manipulate IPv4 and IPv6 addresses in Microsoft Excel.
+# Excel IP Functions
+
+## A Suite of Excel Tools to manipulate IPv4 and IPv6 addresses in Microsoft Excel.
 
 NEW IN 2025: IP Formulas
 
