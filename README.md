@@ -11,7 +11,7 @@ They are however restricted:
 - They required Excel 365
 - They only support IPv4
 
-Classic VBA Based Functions
+__Classic VBA Based Functions__
 
 The classic VBA based fucntions are still available.
 
