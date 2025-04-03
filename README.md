@@ -31,3 +31,13 @@ If you do need to manipulate IPv6 addresses, or use an older version of Excel, m
 
 They do support IPv4 and IPv6.
 
+## Utilisation
+
+
+
+## Installation
+
+Manual Installation:
+Create a new macro-enabled workbook, open the VBA environment and import the .bas and .cls files in the VBA folder.
+[a relative link](VBA/Excel%20IP%20Functions%204.00b5.bas)
+[a relative link](VBA/Excel%20IP%20Functions%204.00b5.cls)
