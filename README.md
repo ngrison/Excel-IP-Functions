@@ -12,7 +12,7 @@ These tools help you answer all of those queries and many, many more.
 
 There are now two versions of the tools available.
 
-__NEW IN 2025: IP Formulas__
+## NEW IN 2025: IP Formulas
 
 I have now developped a formula based suite of functions to manipulate IPv4 addresses.
 There are two major benefits to the formula based suite:
@@ -25,13 +25,13 @@ The two main restrictions:
 - They required Excel 365
 - They only support IPv4
 
-__Classic VBA Based Functions__
+## Classic VBA Based Functions
 
 If you do need to manipulate IPv6 addresses, or use an older version of Excel, my classic VBA based fucntions are still available.
 
 They do support IPv4 and IPv6.
 
-## Utilisation
+### Utilisation
 
 When installed and enabled in the workbook, all functions become available in formulas and begin with "ip". Just type"=ip" in a cell and you will see the list of functions.
 The functions have specific options to format the output.
@@ -54,7 +54,7 @@ ipSubNext: Get the next subnet
 The modules include countless more functions and format options so I highly recommend using my instruction XLSM file to view all the functions and see how they work:
 [Excel IP Functions.xlsm](VBA/Excel%20IP%20Functions.xlsm)
 
-## Installation
+### Installation
 
 Manual Installation:
 Create a new macro-enabled workbook, open the VBA environment and import the .bas and .cls files in the VBA folder.
