@@ -2,6 +2,8 @@
 
 ## A Suite of Excel Tools to manipulate IPv4 and IPv6 addresses in Microsoft Excel.
 
+![Screenshot of an exceltable containing IP addressing information.](documentation/images/main_header.png)
+
 These tools are a useful tool for anyone who needs to interact with IP addresses in any forms. They can help you with such queries:
 - What is the network address, subnet mask or broadcast address?
 - What is the next or previous subnet?
