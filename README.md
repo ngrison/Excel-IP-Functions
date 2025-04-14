@@ -1,16 +1,19 @@
 # Excel IP Functions
 
-## A Suite of Excel Tools to manipulate IPv4 and IPv6 addresses in Microsoft Excel.
+## A complete suite of Excel Functions to manipulate IPv4 and IPv6 addresses in Microsoft Excel.
 
 ![Screenshot of an exceltable containing IP addressing information.](documentation/images/main_header.png)
 
-These tools are a useful tool for anyone who needs to interact with IP addresses in any forms. They can help you with such queries:
+These tools are a incredibly useful for anyone who needs to interact with IP addresses in any forms. They can help you with such queries:
 - What is the network address, subnet mask or broadcast address?
 - What is the next or previous subnet?
 - I need a list of subnets in a summary?
 - Is an address or network in a multicast or private range?
 
-These tools help you answer all of those queries and many, many more.
+These tools help you answer all of those queries and many, many more. Typical use cases would be:
+- Extract/analyse data from routing or forwarding tables
+- Generate dynamic configuration files for device IP interfaces or routing protocols
+- Create complex, dynamic IP addressing schemes
 
 There are now two versions of the tools available.
 
