@@ -30,6 +30,8 @@ The two main restrictions:
 - They required Excel 365
 - They only support IPv4
 
+NEW: 15/04/2025 "ip.filter_include" and "ip.filter_exclude" to filter a list of subnets that belong/don't belong to a supernet.
+
 ### Utilisation
 
 The functions are extremely easy to use. Just type "=ip." in a cell and all the available functions will be displayed. Most functions take input in the form of a dotted ip address (i.e. 192.168.0.1) or a dotted IP address and a prefix length (i.e. 192.168.0.1/24). There are functions to accept or return data from/to any other format (i.e. hostmask, netmask, binary,...).
