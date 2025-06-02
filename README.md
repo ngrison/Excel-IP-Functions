@@ -21,13 +21,13 @@ There are now two versions of the tools available.
 
 I have now developped a formula based suite of functions to manipulate IPv4 addresses.
 There are two major benefits to the formula based suite:
-- They run on Excel Online
-- They run in standard .xls workbooks, no need for a .xlsm macro enabled workbook
+- It runs on Excel Online
+- It runs in standard .xls/.xlsx workbooks, no need for a .xlsm macro enabled workbook
 
 They do support most features from formatting to sorting and subnetting.
 
 The two main restrictions:
-- They required Excel 365
+- They require Excel 365
 - They only support IPv4
 
 NEW: 15/04/2025 "ip.filter_include" and "ip.filter_exclude" to filter a list of subnets that belong/don't belong to a supernet.
