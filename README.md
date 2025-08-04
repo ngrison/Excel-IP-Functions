@@ -47,7 +47,7 @@ ip.last_host_address
 ip.offset
 
 The module includes countless functions so I highly recommend using my instruction XLS file to view all the functions and understand how to use them:
-[Excel IP Functions User Guide 1.1.xls](Formula/Excel%20IP%20Functions%20User%20Guide%201.1.xls)
+[Excel IP Functions User Guide 1.1.xls](Formula/Excel%20IP%20Formulas%20Blank%20Workbook%201.1.xlsx)
 
 ### Installation
 
