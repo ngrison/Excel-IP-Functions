@@ -57,7 +57,7 @@ The easiest way to use those function is to simply download the blank workbook [
 If you need to add the functions to an existing workbook, the easiest way is to open the [Excel IP Functions.xls](Formula/Excel%20IP%20Functions%20Blank%20Workbook.xlsm) and copy the only blank sheet it contains to your existing workbook. That will also add the module to your workbook. The copied sheet can immediately be deleted.
 
 Manual Installation:
-* Install [Microsoft Excel Labs]([VBA/Excel%20IP%20Functions.bas](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview)).
+* Install [Microsoft Excel Labs](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview).
 * create a new workbook and launch Excel Labs.
 * Enter the Advanced Formula environment and select "Module".
 * Click the import module icon and paste the following URL: https://gist.github.com/ngrison/54836a2e14f79da7612fe7b4ca5ee536
