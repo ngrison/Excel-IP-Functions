@@ -52,9 +52,9 @@ The module includes countless functions so I highly recommend using my instructi
 ### Installation
 
 Easy Installation:
-The easiest way to use those function is to simply download the blank workbook [Excel IP Formulas Blank Workbook 1.1.xlsx](Formula/Excel%20IP%20Functions%20Blank%20Workbook%201.1.xlsm) and start using the functions.
+The easiest way to use those function is to simply download the blank workbook [Excel IP Formulas Blank Workbook 1.1.xlsx](Formula/Excel%20IP%20Formulas%20Blank%20Workbook%201.1.xlsx) and start using the functions.
 
-If you need to add the functions to an existing workbook, the easiest way is to open the [Excel IP Formulas Blank Workbook 1.1.xlsx](Formula/Excel%20IP%20Functions%20Blank%20Workbook%201.1.xlsm) and copy the only blank sheet it contains to your existing workbook. That will also add the module to your workbook. The copied sheet can immediately be deleted.
+If you need to add the functions to an existing workbook, the easiest way is to open the [Excel IP Formulas Blank Workbook 1.1.xlsx](Formula/Excel%20IP%20Formulas%20Blank%20Workbook%201.1.xlsx) and copy the only blank sheet it contains to your existing workbook. That will also add the module to your workbook. The copied sheet can immediately be deleted.
 
 Manual Installation:
 * Install [Microsoft Excel Labs](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview).
